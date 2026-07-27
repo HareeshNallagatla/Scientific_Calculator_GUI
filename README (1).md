@@ -66,7 +66,7 @@ java UnifiedMathSolver
 
 ## 🧑‍💻 Author
 
-**Hareesh Nallagatla** – Developer & Designer
+**Jahnavi Mannava** – Developer & Designer
 
 ---
 
